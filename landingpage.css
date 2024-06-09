@@ -1,0 +1,366 @@
+/* Apply basic styles to the body / / Style the row / / Style the heading */
+h4 {
+    color: #333333;
+
+    margin-top: 2px;
+    text-align: right;
+    float: right;
+    margin-left: -15PX;
+    background-color: darkcyan;
+    padding: 2px 0;
+    cursor: pointer;
+    margin-bottom: -10px !important;
+}
+
+h3 {
+    padding: -20px;
+    text-align: center
+}
+
+h5 {
+    padding: 80px;
+    background-color: white;
+}
+
+.col1 {
+    text-align: center;
+
+}
+
+.imgg {
+    width: 3%;
+    
+
+}
+
+.imgg1 {
+    float: left;
+    width: 3%;
+    margin: -5px 0 0 0;
+}
+
+binn {
+    padding: 2px 2px;
+    background-color: skyblue;
+    color: white;
+    border: groove;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: white;
+}
+
+
+
+.row2 {
+    margin: 2px;
+    padding: 90px;
+    background-color: darkcyan;
+}
+
+.bind {
+    background-color: deepskyblue;
+    color: white;
+    border: inherit;
+    width: 200px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 45px auto;
+    display: block;
+}
+
+.bbb {
+    color: black;
+    font-size: 12px;
+}
+
+.bbbb {
+    height: 200px;
+}
+
+.imgg6 {
+    height: 200px;
+    width: 97%;
+
+
+}
+
+.row1 {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20231002/pngtree-d-render-of-an-online-ecommerce-shopping-interface-exploring-the-world-image_13572262.png);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 110% 700px;
+    margin-top: -15px;
+    padding-left: 65px;
+
+}
+
+
+.t2 {
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+   color: white;
+   font-family: cursive;
+   cursor: pointer;
+   margin-top: 10px;
+
+}
+
+.t {
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: cursive;
+    margin-top: 5px;
+
+}
+
+.rowww {
+    width: 30%;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 150px 0 0 600px;
+    background-color: rgba(0, 0, 0, 0.6);
+    align-content: center;
+
+}
+
+.b2 {
+    background-color: red;
+    margin-left: 100px;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.b3 {
+    color: wheat;
+    font-weight: 400;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.b4 {
+    color: wheat;
+    font-weight: 700;
+    font-style: oblique;
+
+}
+
+.b5 {
+    color: wheat;
+    font-weight: 800;
+    font-style: oblique;
+    font-size: 50px;
+}
+
+.b7 {
+    text-align: center;
+    font-weight: 800;
+    margin-top: -5px;
+}
+
+.b8 {
+    text-align: center;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+
+.imgg8 {
+    height: 300px;
+    width: 60%;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+
+}
+
+.imgg9 {
+    height: 300px;
+    width: 60%;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.bh {
+
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.326);
+    align-content: center;
+
+
+}
+
+.row6 {
+    background-color: white;
+    margin: 15px;
+    background-image: url(https://media.istockphoto.com/id/1073935306/photo/girls-carrying-shopping-bags.jpg?s=612x612&w=0&k=20&c=JB-TrME32dc0VTnaXVxsbJIExZqR71m-iyVOnG-7puM=");
+
+}
+
+.b12 {
+    font-weight: 600;
+   margin-top: -65px;
+   font-family: cursive;
+   font-size: 20px;
+
+}
+.b13{
+    font-weight: 600;
+   margin-top: -15px;
+   font-family: cursive;
+   font-size: 20px;
+}
+.b14{
+    font-weight: 600;
+   margin-top: -55px;
+   font-family: cursive;
+   font-size: 20px;
+}
+.b15{
+    font-weight: 600;
+   margin-top: -18px;
+   font-family: cursive;
+   font-size: 20px;
+}
+
+.bgimg {
+    background-image: url(https://media.istockphoto.com/id/1073935306/photo/girls-carrying-shopping-bags.jpg?s=612x612&w=0&k=20&c=JB-TrME32dc0VTnaXVxsbJIExZqR71m-iyVOnG-7puM=);
+    background-size: 190% 250px;
+    background-repeat: no-repeat;
+    margin: 50px 0 0 190px;
+    border-radius: 5px;
+
+    height: 400px;
+    width: 60%;
+    border-radius: 5px;
+
+
+
+}
+
+.bgc {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 80%px;
+    height: 280px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 200;
+    font-style: oblique;
+
+
+}
+
+.bgg {
+    margin: -250px 0 0 0;
+    font-style: oblique;
+    font-weight: 300;
+    color: wheat;
+}
+
+.bgg1 {
+    font-style: oblique;
+    font-weight: 300;
+    color: wheat;
+}
+
+.bhh {
+    color: rgb(196, 128, 128);;
+    margin: 30px 0 0 0;
+    background-color:transparent;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 20px;
+    font-style: oblique;
+    font-size: 15px;
+    
+}
+.sun{
+    text-align: center;
+    font-weight: 800;
+   font-size: 30px;
+   font-style: oblique;
+   color: yellowgreen;
+
+   
+}
+
+.bgimg1 {
+    background-image: url(https://5.imimg.com/data5/WY/VO/IE/SELLER-13701/galleria-bali-fashion-03-924x530-500x500.jpg);
+    background-size: 190% 250px;
+    background-repeat: no-repeat;
+    margin: 50px 0 0 190px;
+    border-radius: 5px;
+
+    height: 400px;
+    width: 60%;
+    border-radius: 5px;
+
+
+
+}
+
+.bgc1 {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 80%px;
+    height: 280px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 200;
+    font-style: oblique;
+    margin: -400px 110px 0 190px;
+
+
+}
+
+.bgg2 {
+    margin: -230px 0 0 0;
+    font-style: oblique;
+    font-weight: 300;
+    color: wheat;
+    text-align: center;
+    font-size: 25px;
+    padding-left: 100px;
+}
+
+.bgg3 {
+    font-style: oblique;
+    font-weight: 300;
+    color: wheat;
+    text-align: center;
+    font-size: 25px;
+    padding-left: 100px;
+}
+
+.bhh1 {
+    margin: -500px 120px 0 330px;
+    border-radius: 15px;
+    background-color: transparent;
+    padding: 20px;
+    margin-top: 5px;
+    color: rgb(196, 128, 128);
+    font-style: oblique;
+    padding-right: 5px;
+
+
+}
+
+.binn{
+    margin-left: 70%;
+   border-radius: 20px;
+   background-color: transparent;
+   padding-bottom: 5px;
+   font-style: oblique;
+}
